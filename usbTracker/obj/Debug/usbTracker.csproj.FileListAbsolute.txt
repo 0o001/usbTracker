@@ -1,0 +1,7 @@
+C:\Users\musta\source\repos\usbTracker\usbTracker\bin\Debug\usbTracker.exe.config
+C:\Users\musta\source\repos\usbTracker\usbTracker\bin\Debug\usbTracker.exe
+C:\Users\musta\source\repos\usbTracker\usbTracker\bin\Debug\usbTracker.pdb
+C:\Users\musta\source\repos\usbTracker\usbTracker\obj\Debug\usbTracker.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\usbTracker\usbTracker\obj\Debug\usbTracker.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\usbTracker\usbTracker\obj\Debug\usbTracker.exe
+C:\Users\musta\source\repos\usbTracker\usbTracker\obj\Debug\usbTracker.pdb
